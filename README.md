@@ -1,7 +1,9 @@
 # ANALYSIS OF THE CLINICAL TRIAL AND PHARMA DATASET
 In today's digital world, we deal with a lot of data. This brings both opportunities and challenges for 
 businesses. The increasing number of devices like smartphones and computers results in a larger amount 
-of data being generated. Smart devices can provide insights into people's behaviors. To manage this 
+of data being generated. 
+![image](https://github.com/user-attachments/assets/fec690f3-244f-4a22-809e-87a6254285e9)
+Smart devices can provide insights into people's behaviors. To manage this 
 growing volume of data, specialized tools and methods have been developed. They help collect, store, 
 analyze, and show data, often in real-time. These tools let businesses find important insights hidden in 
 big datasets. This era marks a transition from an Informational Society to a Knowledge-Based Society, 
